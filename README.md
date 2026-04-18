@@ -101,7 +101,7 @@ The dashboard is built using:
 
 ## 📸 Dashboard Preview
 
-![IPL Dashboard](./assets/dashboard.png)
+![IPL Dashboard](https://github.com/Rishabhprajapati1/IPL_Analysis_Dashboard_PBI/blob/main/Screenshot_PBI.png)
 
 ---
 
